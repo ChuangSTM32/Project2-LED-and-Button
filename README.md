@@ -20,7 +20,7 @@
 
 ## 電路圖
 
-![STM32 Board](images/stm32.png)
+![STM32 Board](images/circuit.png)
 
 ## 構建和編譯
 
